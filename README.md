@@ -1,2 +1,2 @@
 ### Details
-  -Use Visual Studio Code
+ - Use Visual Studio Code
